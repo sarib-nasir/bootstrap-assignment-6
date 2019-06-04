@@ -1,0 +1,88 @@
+html,body{
+	color:#292a34;
+}
+#section-1{
+	background: url('../images/sliderbackground.jpg') center no-repeat;
+	background-size:cover;
+
+}
+#cover{
+	padding:3rem 0 5rem 0;
+}
+#cover p{
+	font-weight:500;
+}
+#inlineForm{
+	padding-right: 57px;
+	font-size:0.9em;
+}
+#btn-1{
+	background-color:#d40065;
+	color:white;
+}
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
+   border-color:none;
+}
+#section-2{
+	padding:3rem 0;
+}
+#sec2h1{
+	padding-bottom:2rem;
+}
+#section-3{
+	background-color:#292a34;
+	padding:3rem 0;
+}
+#section-3 p{
+	color:white;
+}
+#sec3h1{
+	padding-bottom:2rem;
+}
+#section-4{
+	background-color:#fff;
+	padding:3rem 0;
+}
+#section-4 h3{
+	padding-bottom:2rem;
+}
+#section-5{
+	background-color:#f8f8f8;
+	padding:3rem 0;
+}
+.stars{
+	padding-top:2rem;
+	padding-bottom:2rem;
+}
+.quote-style{
+	font-size:0.8em;
+	font-weight:500;
+}
+#section-6{
+	background-color:#d40065;
+	padding-top:1rem;
+}
+#inlineForm2{
+	padding-right:164px;
+	font-size:0.9em;
+}
+
+#section-7{
+	background-color:#292a34;
+	padding:3rem 0;
+}
+#section-7 h5{
+	color:grey;
+}
+.list12 a{
+	text-decoration:none;
+	color:#fff;
+
+}
+.list12 ul{
+	list-style:none;
+	padding-left:0;
+}
+
